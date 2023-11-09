@@ -8,5 +8,5 @@ spring:
       server:
         git:
           default-label: master
-          uri: https://github.com/MoisesGodoy17/Top-Education-Pep2
+          uri: https://github.com/kk5t/top
           search-paths: config-data
